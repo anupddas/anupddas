@@ -43,5 +43,5 @@
 </a>
 </p>
 <p align="middle">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupddas&theme=dark" alt="anupddas" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupddas" alt="anupddas" />
 </p>
