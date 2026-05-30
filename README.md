@@ -3,6 +3,11 @@
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=anupddas&label=Profile%20views&color=0e75b6&style=flat" alt="anupddas"/></p>
 
+</p>
+<p align="middle">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupddas" alt="anupddas" />
+</p>
+
 <h3 align="middle">Tools, Technologies, & Languages</h3>
 <p align="middle">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/> </a>
@@ -41,7 +46,3 @@
        height="60"
        width="60" />
 </a>
-</p>
-<p align="middle">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupddas" alt="anupddas" />
-</p>
