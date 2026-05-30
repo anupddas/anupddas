@@ -22,7 +22,6 @@
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="60" height="60"/> </a>
     <a href="https://qiskit.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="60" height="60"/> </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
-    <a href="https://en.wikipedia.org/wiki/Unix_shell" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="shell" width="60" height="60"/> </a>
 </p>
 
 <h3 align="middle">Get in Touch</h3>
